@@ -5,3 +5,10 @@ C:\Users\bearr\Desktop\visualstudioproject\Labs\Lab8\Lab8\obj\Debug\Lab8.csprojR
 C:\Users\bearr\Desktop\visualstudioproject\Labs\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
 C:\Users\bearr\Desktop\visualstudioproject\Labs\Lab8\Lab8\obj\Debug\Lab8.exe
 C:\Users\bearr\Desktop\visualstudioproject\Labs\Lab8\Lab8\obj\Debug\Lab8.pdb
+C:\Users\Bearrising\Desktop\grand_circus\Labs\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\Bearrising\Desktop\grand_circus\Labs\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\Bearrising\Desktop\grand_circus\Labs\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\Bearrising\Desktop\grand_circus\Labs\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+C:\Users\Bearrising\Desktop\grand_circus\Labs\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Bearrising\Desktop\grand_circus\Labs\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\Bearrising\Desktop\grand_circus\Labs\Lab8\Lab8\obj\Debug\Lab8.pdb

@@ -11,7 +11,7 @@ namespace Lab8
     {
 
         
-
+        // i am making a comment to test pulling and pushinmg
         static void Main(string[] args)
         {
             string[] names = { "Mr. Meeseeks", "Lord Canti", "Solid Snake", "Cloud Strife", "King Mrgl-Mrgl" };
